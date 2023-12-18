@@ -7,7 +7,7 @@
       "author": "Adventure Enthusiast",
       "date": "2023-01-10",
       "category": "Travel",
-      "image": "https://example.com/image1.jpg"
+      "image": "/images/posts/post-1.png"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "author": "Gourmet Chef",
       "date": "2023-02-15",
       "category": "Food",
-      "image": "https://example.com/image2.jpg"
+      "image": "/images/posts/post-2.png"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "author": "Tech Geek",
       "date": "2023-12-20",
       "category": "Technology",
-      "image": "https://example.com/image10.jpg"
+      "image": "/images/posts/post-3.png"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "author": "Dr. Ocean Explorer",
       "date": "2023-12-18",
       "category": "Science & Nature",
-      "image": "https://placeholderimage.com/600x300/ocean"
+      "image": "/images/posts/post-4.png"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "author": "Foodie Traveler",
       "date": "2023-12-17",
       "category": "Travel & Food",
-      "image": "https://placeholderimage.com/600x300/thailand-food"
+      "image": "/images/posts/post-5.png"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "author": "Snow Sport Enthusiast",
       "date": "2023-12-16",
       "category": "Travel & Sports",
-      "image": "https://placeholderimage.com/600x300/alps-skiing"
+      "image": "/images/posts/post-6.png"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "author": "Meditation Teacher",
       "date": "2023-12-15",
       "category": "Health & Wellness",
-      "image": "https://placeholderimage.com/600x300/mindfulness"
+      "image": "/images/posts/post-7.png"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "author": "Tech Guru",
       "date": "2023-12-14",
       "category": "Technology & Education",
-      "image": "https://placeholderimage.com/600x300/coding"
+      "image": "/images/posts/post-8.png"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "author": "Amateur Astronomer",
       "date": "2023-12-13",
       "category": "Science & Education",
-      "image": "https://placeholderimage.com/600x300/stars"
+      "image": "/images/posts/post-9.png"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "author": "Eco-Conscious Advocate",
       "date": "2023-12-12",
       "category": "Environment & Lifestyle",
-      "image": "https://placeholderimage.com/600x300/sustainability"
+      "image": "/images/posts/post-10.png"
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "author": "Writing Expert",
       "date": "2023-12-11",
       "category": "Arts & Literature",
-      "image": "https://placeholderimage.com/600x300/storytelling"
+      "image": "/images/posts/post-11.png"
     }
   ]
 }
